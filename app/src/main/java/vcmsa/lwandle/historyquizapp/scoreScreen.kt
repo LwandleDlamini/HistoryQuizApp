@@ -31,4 +31,4 @@ class scoreScreen : AppCompatActivity() {
             Toast.makeText(this, "Review feature coming soon!", Toast.LENGTH_SHORT).show()
         }
     }
-}
+}// Sourced Code from ChatGPT

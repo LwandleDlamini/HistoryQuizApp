@@ -85,4 +85,4 @@ class Questions : AppCompatActivity() {
         }
         return score
     }
-}
+}// Sourced the code from ChatGPT
