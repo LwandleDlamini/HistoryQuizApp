@@ -63,6 +63,13 @@ these are the folowing screenshots of the History Quiz App:
 
 
 
+This is the link to the code on github: https://github.com/LwandleDlamini/HistoryQuizApp.git
+This is the link to the youtube video showing how the app works: 
+
+
+
+References:
+
 
 
 
