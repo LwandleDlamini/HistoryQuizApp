@@ -50,3 +50,9 @@ GitHub Actions was configured using an automated workflow.
 The workflow runs checks to build the project on every push to the repository.
 
 This helps verify that the codebase is always deployable across different environments.
+
+
+
+
+these are the folowing screenshots of the History Quiz App:
+![Screenshot 2025-05-21 074927](https://github.com/user-attachments/assets/7b36f4bb-adde-4061-a1da-e7a679f002d7)
