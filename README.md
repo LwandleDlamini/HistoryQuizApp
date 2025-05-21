@@ -31,7 +31,6 @@ The app follows a modular screen-based design using multiple activities (Welcome
 The UI was designed for clarity and ease of use, using large text, button-based navigation, and feedback elements that enhance interactivity.
 
 Radio buttons were chosen for answer selection to ensure only one option is chosen per question, avoiding confusion.
-![Screenshot 2025-05-21 075220](https://github.com/user-attachments/assets/557f7dec-baf0-42b4-adf8-c3917323f881)
 
 A consistent color scheme and spacing make the app visually appealing and accessible.
 
@@ -59,7 +58,9 @@ these are the folowing screenshots of the History Quiz App:
 
 
 ![Screenshot 2025-05-21 074927](https://github.com/user-attachments/assets/7b36f4bb-adde-4061-a1da-e7a679f002d7)
+
 ![Screenshot 2025-05-21 075030](https://github.com/user-attachments/assets/a524b087-04e2-415d-88b3-4eddea231b97)
+
 ![Screenshot 2025-05-21 075220](https://github.com/user-attachments/assets/563f9a8d-f61b-4d43-944c-9845ab83173e)
 
 
