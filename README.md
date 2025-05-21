@@ -54,14 +54,15 @@ This helps verify that the codebase is always deployable across different enviro
 these are the folowing screenshots of the History Quiz App:
 
 
+![Screenshot 2025-05-21 113056](https://github.com/user-attachments/assets/704a0a34-9a7b-4c76-87f7-aa3938d63658)
+
+![Screenshot 2025-05-21 113001](https://github.com/user-attachments/assets/96c29554-084a-4bda-a822-8567a0cb4781)
+
+![Screenshot 2025-05-21 113021](https://github.com/user-attachments/assets/6e175c69-c59f-436b-acca-2c8b662890c5)
 
 
 
-![Screenshot 2025-05-21 074927](https://github.com/user-attachments/assets/7b36f4bb-adde-4061-a1da-e7a679f002d7)
 
-![Screenshot 2025-05-21 075030](https://github.com/user-attachments/assets/a524b087-04e2-415d-88b3-4eddea231b97)
-
-![Screenshot 2025-05-21 075220](https://github.com/user-attachments/assets/563f9a8d-f61b-4d43-944c-9845ab83173e)
 
 
 
